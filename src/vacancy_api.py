@@ -86,7 +86,6 @@ class HeadHunterAPI(VacancyEngine):
 
         return formatted_vacancies
 
-
 class SuperJobAPI(VacancyEngine):
     url = f'https://api.superjob.ru/2.0/vacancies'
 

@@ -99,4 +99,4 @@ def user_interaction():
     else:
         print("Вакансии сохранены в файле vacancies.json")
 
-    print("Программа завершена.")
+    print("Программа завершена")
